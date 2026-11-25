@@ -1,6 +1,6 @@
 /* Foreigner Studio — cookie consent (GA4 Consent Mode v2, denied by default). Compact corner card. */
 (function(){
-  var ID='G-DCS2DJZ2CP',KEY='fs_cookie_consent';
+  var ID='G-J0N2H2DSQK',KEY='fs_cookie_consent';
   var T={en:['We use cookies to understand how the site is used and improve it.','Decline','Accept'],
     es:['Usamos cookies para entender cómo se usa el sitio y mejorarlo.','Rechazar','Aceptar'],
     pt:['Usamos cookies para entender como o site é usado e melhorá-lo.','Recusar','Aceitar']};
